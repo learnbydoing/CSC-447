@@ -1,0 +1,22 @@
+[0m[[0minfo[0m] [0m[32mfp2tests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX01 - map[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX02 - filter[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX03 - append[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX04 - flatten[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX05 - foldLeft[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX06 - foldRight[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX07 - joinTerminateLeft[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX08 - joinTerminateRight[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX09 - firstNumGreaterThan[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX10 - firstIndexNumGreaterThan[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX11 - member[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX12 - allEqual[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX13 - stringLengths[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX14 - delete1[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX15 - delete2[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX16 - delete3[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX17 - removeDupes1[0m[0m
+[0m[[0minfo[0m] [0m[31m- EX18 - removeDupes2 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  null did not equal List() (fp2tests.scala:120)[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX19 - splitAt[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX20 - allDistinct[0m[0m

@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32minterpretertests:[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX01 - exFiftyVal[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX02 - exFiftyExp[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX03 - exX[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX04 - exXPlusFifty[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX05 - exXFunPlusFifty[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX06 - exXFunPlusFiftyApplied[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX07 - exLetXLetY[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX08 - exLetF[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX10 - exPair[0m[0m
+[0m[[0minfo[0m] [0m[32m- EX11 - exCounter[0m[0m

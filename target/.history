@@ -1,0 +1,45 @@
+compile
+test-only fp1tests
+exit
+compile
+~test-only fp1tests
+exit
+compile
+~test-only fp1tests
+scals
+scala
+    var jetSet = Set("Boeing", "Airbus")
+    jetSet += "Lear"
+    println(jetSet.contains("Cessna"))
+scala
+compile
+console
+~test-only fp1tests
+compile
+test-only fp1tests
+compile
+~test-only fp1tests
+compile
+console
+compile
+~test-only fp1tests
+compile
+~test-only fp1tests
+test-only fp1tests
+compile
+~test-only fp1tests
+~test-only fp1tests --debut
+~test-only fp1tests --debug
+~test-only fp1tests -- debug
+~test-only fp1tests -
+~test-only fp1tests 
+~test-only fp1tests
+compile
+~test-only fp1tests
+compile
+~test-only fp2tests
+compile
+~test-only storagetests
+~test-only interpretertests
+compile
+~test-only interpretertests
